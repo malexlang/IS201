@@ -1,41 +1,36 @@
 @charset "UTF-8";
 
-/* Style Definition 1 */
 .style1 {
-    background-color: #ffd700; /* Gold */
-    color: #333; /* Dark Gray */
+    background-color: #ffd700;
+    color: #333;
     font-family: 'Arial', sans-serif;
     padding: 20px;
     border: 1px solid #333;
 }
 
-/* Style Definition 2 */
 .style2 {
-    background-color: #87CEEB; /* Sky Blue */
+    background-color: #87CEEB;
     color: #fff; /* White */
     font-family: 'Courier New', monospace;
     padding: 15px;
-    border: 2px solid #004080; /* Navy Blue */
+    border: 2px solid #004080;
 }
 
-/* Style Definition 3 */
 .style3 {
-    background-color: #90EE90; /* Light Green */
-    color: #333; /* Dark Gray */
+    background-color: #90EE90;
+    color: #333; 
     font-family: 'Georgia', serif;
     padding: 25px;
     border: 1px dashed #333;
 }
 
-/* Style Definition 4 */
 .style4 {
-    background-color: #ffa07a; /* Light Salmon */
-    color: #333; /* Dark Gray */
+    background-color: #ffa07a; 
+    color: #333; 
     font-family: 'Verdana', sans-serif;
     padding: 18px;
     border: 2px dotted #333;
 }
-
 
 body {
     background-color: #f0f7da;
